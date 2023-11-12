@@ -17,6 +17,16 @@ hall tickets for the applicants. After successful generation of hall tickets, th
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
 
+![UseCaseDiagram1 on](https://github.com/Vanisha0609/LAB-6-Online-examination-system/assets/119104009/d131a5a4-4725-4c8c-a8be-40774a06dbf1)
+
+![image](https://github.com/Vanisha0609/LAB-6-Online-examination-system/assets/119104009/c8986c42-35a8-472e-9646-d628ee8ec8e6)
+
+![image](https://github.com/Vanisha0609/LAB-6-Online-examination-system/assets/119104009/10fb11e7-a232-487e-ab36-d5fd35dd61aa)
+
+![image](https://github.com/Vanisha0609/LAB-6-Online-examination-system/assets/119104009/f99a969e-7131-4f1a-894f-b83562b2d11f)
+
+![image](https://github.com/Vanisha0609/LAB-6-Online-examination-system/assets/119104009/48a9f48d-0252-4312-bb00-f98153a45b16)
+
 
 
 ### RESULT:
